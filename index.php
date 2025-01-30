@@ -26,7 +26,7 @@
     <h1>Welcome to My PHP Page</h1>
     
     <?php
-        $message = "Hello, this is a simple PHP template!";
+        $message = "Hello, this is  a simple PHP template!";
         echo "<p>$message</p>";
 
         // Display current date
