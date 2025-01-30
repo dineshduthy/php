@@ -23,7 +23,7 @@
 <body>
 
 <div class="container">
-    <h1>Hi I am dinesh</h1>
+    <h1>Hi I am dinesh test </h1>
     
     <?php
         $message = "Hello, this is  a simple PHP template!";
